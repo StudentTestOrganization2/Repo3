@@ -1,0 +1,4 @@
+[submodule "Repo4"]
+	path = Repo4
+	url = ../Repo4.git
+	branch = Release/1.0/HF1
